@@ -1,0 +1,18 @@
+[
+  {
+    "id": "E75F7D9A-FB4E-4A6D-B6D1-45A3D22EFA5E",
+    "name": "Main Street Garage",
+    "address": "123 Main St, Ann Arbor, MI",
+    "latitude": 42.2808,
+    "longitude": -83.743,
+    "hourlyRate": 2.50
+  },
+  {
+    "id": "C9D73859-57AC-4E1D-BC2F-3C09D04D8019",
+    "name": "Maynard Parking Lot",
+    "address": "324 Maynard St, Ann Arbor, MI",
+    "latitude": 42.2781,
+    "longitude": -83.7412,
+    "hourlyRate": 2.00
+  }
+]
